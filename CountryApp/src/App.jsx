@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 import Countries from "./components/Countries";
+import "./app.css";
 
 // API URL
 const url = "https://restcountries.com/v3.1/all";
